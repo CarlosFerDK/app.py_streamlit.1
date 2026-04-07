@@ -1,2 +1,9 @@
-# app.py_streamlit.1
-atividade IV
+bibliotecas usadas:
+
+streamlit
+pandas
+numpy
+plotly
+
+comando terminal:
+streamlit run app.py
